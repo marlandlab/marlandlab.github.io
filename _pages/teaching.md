@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /opportunities/
-title: opportunities
+permalink: /teaching/
+title: teaching
 description: Vacancies and funding opportunities for joining the group.
 nav: true
 nav_order: 5
