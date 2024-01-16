@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Bioelectronic Interfaces
+subtitle: #
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 We are an interdisciplinary research group working at the interface between electronics and biology. We develop miniature devices that sense and transmit information from living systems. Our work spans from fundamental microsystems research to applications in medicine and synthetic biology.
