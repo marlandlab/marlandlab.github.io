@@ -5,7 +5,7 @@ permalink: /
 subtitle: Bioelectronic Interfaces
 
 profile:
-  align: center
+  align: left
   image: logo.png
   image_circular: false # crops the image to make it circular
   more_info:
