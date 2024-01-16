@@ -201,7 +201,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%; // Changed from 30% by JM 2024-01-16
 
     .address {
       p {
@@ -366,7 +366,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem; // Changed from 4rem
 
     a {
       i::before {
