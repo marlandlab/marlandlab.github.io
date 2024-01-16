@@ -2,22 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: University of Edinburgh
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+We are an interdisciplinary research group working at the interface between electronics and biology. We develop miniature devices that sense and transmit information from living systems. Our work spans from fundamental microsystems research to applications in medicine and synthetic biology. We are based in the [Institute for Integrated Micro and Nano Systems](https://www.eng.ed.ac.uk/research/institutes/imns) at the [University of Edinburgh](https://www.ed.ac.uk), and are a member of the [Centre for Engineering Biology](https://www.ed.ac.uk/biology/centre-engineering-biology).
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
