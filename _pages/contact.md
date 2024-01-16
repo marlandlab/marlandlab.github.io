@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: contact
+title: Contact
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 10

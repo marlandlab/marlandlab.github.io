@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Team
-description: members of the group
+description: #
 nav: true
 nav_order: 3
 
@@ -13,10 +13,12 @@ profiles:
     image: jamie_profile.jpg
     content: about_jamie.md
     image_circular: false # crops the image to make it circular
-    more_info: #
+    more_info: Jamie Marland (PI) #
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: #
 ---
+
+Extra text here
