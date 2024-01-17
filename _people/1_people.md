@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: Implantable sensors for tissue oxygen monitoring
-img: assets/img/12.jpg
+title: Jamie Marland
+description: Group Leader
+img: assets/img/jamie_profile.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Oxygen is essential for healthy operation of the human body. However, under conditions of disease or injury, the balance of oxygen delivery and consumption within tissues can be impaired. Such impairment is usually invisible, causing important medical events to be missed and preventing the delivery of optimal therapy. To address this need, we are developing a miniature implantable sensor for tissue oxygenation. The sensor is designed to be used in a variety of medical applications including cancer radiotherapy and post-operative patient monitoring, and it is likely to find future applications in other clinical areas. It operates using electrochemical oxygen detection, with microfabricated components to minimise invasiveness.
+My PhD training was in Clinical Neurosciences at the University of Cambridge (2007-2011), studying RhoGTPase protein signalling in neurons, followed by postdoctoral work at the University of Edinburgh (2012-2015) on bulk endocytosis in neuronal synapses. A strong interest in interdisciplinary research led me to an MSc in sensor systems at the University of Glasgow, and further postdoctoral research at the University of Edinburgh (2016-2020) on implantable biomedical sensors. In 2021, I became a Lecturer at the University of Edinburgh and established an independent bioelectronics research group. I also teach electronics design and manufacturing at undergraduate and postgraduate levels.

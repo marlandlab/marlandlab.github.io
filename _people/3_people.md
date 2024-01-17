@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
+title: Person 3
 description: Implantable sensors for tissue oxygen monitoring
 img: assets/img/12.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
