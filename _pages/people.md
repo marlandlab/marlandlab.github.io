@@ -1,7 +1,7 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: People_new
+permalink: /people_new/
 description: Research team members
 nav: true
 nav_order: 15
