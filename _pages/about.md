@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Bioelectronics at the University of Edinburgh
+subtitle: Bioelectronics & microsystem engineering
 
 profile:
   align: right
