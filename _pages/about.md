@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Bioelectronics & microsystem engineering
+subtitle: _Bioelectronics & Microsystems Engineering_
 
 profile:
   align: right
