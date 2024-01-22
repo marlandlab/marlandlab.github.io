@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: _Bioelectronics & Microsystems Engineering_
+subtitle: Bioelectronics & Microsystems Engineering
 
 profile:
   align: right
   image: #
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: #
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -16,6 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-We are an interdisciplinary research group working at the interface between electronics and biology. We develop and test miniature devices that sense and transmit information from living systems. Our interests span from fundamental microsystems research to applications in medicine and synthetic biology.
+We are an interdisciplinary research group working at the interface between electronics and biology. We develop miniature devices that transduce signals directly from living systems, with a particular focus on applications in synthetic biology and human physiology.
 
-The team is based in the [Institute for Integrated Micro and Nano Systems](https://www.eng.ed.ac.uk/research/institutes/imns) at the [University of Edinburgh](https://www.ed.ac.uk). We are a member of the [Centre for Engineering Biology](https://www.ed.ac.uk/biology/centre-engineering-biology), and collaborate widely across the University.
+Recent examples of [our research](https://marlandlab.github.io/projects/) include implantable sensors that monitor patient health in real-time, electrodes to read outputs from engineered cell-free systems, and nanowires that are small enough to sense the electric field of individual biomolecules. Close collaboration with end-users to maximises the value and impact of our research.
+
+Underpinning this activity are tools and techniques from the semiconductor industry. These  enable nanofabrication of bioelectronic systems, matching the size scales between biological molecules and engineered devices. These fabrication technologies also allow highly reproducible and scalable manufacturing, offering a pathway to future translation.
+
+Our team is based in the [Institute for Integrated Micro and Nano Systems](https://www.eng.ed.ac.uk/research/institutes/imns) at the [University of Edinburgh](https://www.ed.ac.uk). We are a member of the [Centre for Engineering Biology](https://www.ed.ac.uk/biology/centre-engineering-biology), and collaborate across the University and NHS Lothian.
