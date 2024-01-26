@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /profiles_old/
+permalink: /profiles/
 title: People
-description: Marland Lab research team#
+description: Members of the research team
 nav: true
 nav_order: 3
 
