@@ -20,17 +20,17 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_blank.jpg
+    image: profile_blank.png
     content: about_aarushi.md
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_blank.jpg
+    image: profile_blank.png
     content: about_shan.md
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_blank.jpg
+    image: profile_blank.png
     content: about_muhammad.md
     image_circular: false # crops the image to make it circular
     more_info: #
