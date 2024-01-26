@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /profiles_old/
-title: Team_old
-description: #
+title: People
+description: Marland Lab research team#
 nav: true
 nav_order: 3
 
