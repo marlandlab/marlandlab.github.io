@@ -16,10 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-We are an interdisciplinary research group working at the interface between electronics and biology. We develop miniature devices that sense information directly from living systems, with a particular focus on applications in synthetic biology and human physiology.
+We are an interdisciplinary research group working at the interface between electronics and biology. We develop miniature devices that sense biological signals directly from living systems, focusing particularly on synthetic biology and human physiology applications.
 
-Recent examples of our research include implantable sensors that monitor patient health in real-time, electrodes to read outputs from engineered cell-free systems, and nanowires that are small enough to sense the electric field of individual biomolecules. Close engagment with end-users maximises the value and impact of our research.
+Recent examples of our work include implantable sensors for real-time health monitoring, electrodes that read outputs from engineered cell-free systems, and ultra-thin nanowires capable of sensing the electric fields of individual biomolecules.
 
-Underpinning this activity are tools and techniques from the semiconductor industry. These enable nanofabrication of bioelectronic systems, matching the size scales between biological molecules and engineered devices. This approach also allows highly reproducible and scalable manufacturing, offering a pathway to future translation.
+Underpinning this activity are tools and techniques from the semiconductor industry, enabling us to nanofabricate bioelectronic systems that bridge the size gap between biological molecules and engineered devices. This approach facilitates highly reproducible and scalable manufacturing, offering a pathway for future translation.
 
-Our team is based in the [Institute for Integrated Micro and Nano Systems](https://www.eng.ed.ac.uk/research/institutes/imns) at the [University of Edinburgh](https://www.ed.ac.uk). We are a member of the [Centre for Engineering Biology](https://www.ed.ac.uk/biology/centre-engineering-biology), and collaborate across the University and NHS Lothian.
+Our team is based in the [Institute for Integrated Micro and Nano Systems](https://www.eng.ed.ac.uk/research/institutes/imns) at the [University of Edinburgh](https://www.ed.ac.uk/), and is a member of the [Centre for Engineering Biology](https://www.ed.ac.uk/biology/centre-engineering-biology) We closely engage with end-users to ensure our research has maximum value and impact, and collaborate across the University and NHS Lothian.
