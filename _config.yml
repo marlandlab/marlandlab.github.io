@@ -271,7 +271,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
   last_name: [Marland]
-  first_name: [Jamie R. K.]
+  first_name: [Jamie R. K., Jamie, J.R.K.]
 
   style: apa
   locale: en
