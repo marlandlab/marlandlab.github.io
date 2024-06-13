@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_blank.png
+    image: profile_jennifer.jpg
     content: about_jennifer.md
     image_circular: false # crops the image to make it circular
     more_info: #
