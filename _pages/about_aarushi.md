@@ -1,3 +1,3 @@
 #### **Aarushi Ruhela (PhD student)**
 
-TBC
+Aarushi Ruhela is a PhD student funded by the University of Edinburgh, working on the interface of electronics and synthetic biology. She is co-supervised by Dr Nadanai Laohakunakorn in the School of Biological Sciences. She is working on developing a multiplexed electronic readout system for cell free synthetic biology biosensors. Aarushi moved to the UK from India in 2021 because of her keen interest in cancer research. She did her MRes from the Imperial College London in Cancer Technology where she developed a microfluidic device to study the interaction between cancer organoids and immune cells. Later, she joined the Institute of Cancer Research to explore more about cancer biology and study the heterogeneity in PDAC. She has a background in biochemical engineering from her undergraduate degree from India. Other than this, you can find her doing pottery and painting or running around Edinburgh.
