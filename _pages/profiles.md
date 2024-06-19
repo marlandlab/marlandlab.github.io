@@ -20,12 +20,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_blank.png
+    image: profile_aarushi.png
     content: about_aarushi.md
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_blank.png
+    image: profile_shan.png
     content: about_shan.md
     image_circular: false # crops the image to make it circular
     more_info: #
@@ -36,7 +36,7 @@ profiles:
     more_info: #
   - align: left
     image: #
-    content: about_former.md
+    content: about_collaborators.md
     image_circular: false # crops the image to make it circular
     more_info: #
 ---
