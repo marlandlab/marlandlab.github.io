@@ -3,7 +3,7 @@ layout: page
 permalink: /join/
 title: Join
 description: Opportunities and funding
-nav: true
+nav: false
 nav_order: 5
 ---
 
