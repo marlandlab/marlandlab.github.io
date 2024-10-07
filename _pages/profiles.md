@@ -25,6 +25,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
+    image: profile_keshavi.png
+    content: about_keshavi.md
+    image_circular: false # crops the image to make it circular
+    more_info: #
+  - align: left
     image: profile_shan.png
     content: about_shan.md
     image_circular: false # crops the image to make it circular
