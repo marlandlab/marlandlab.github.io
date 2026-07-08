@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Well done to PhD student [Aarushi Ruhela](https://marlandlab.github.io/profiles/) who received a Highly Commended award in the [Edinburgh Innovations](https://edinburgh-innovations.ed.ac.uk) PhD Max+ pitch activity for MultronicSens, a portable electronic device for multiplex diagnostics, recognising the innovation and translational potential of her PhD research.
+Well done to PhD student [Aarushi Ruhela](https://marlandlab.github.io/profiles/) who received a [Highly Commended award](https://www.instagram.com/p/DXO146yiTTG/) in the [Edinburgh Innovations](https://edinburgh-innovations.ed.ac.uk) PhD Max+ pitch activity for MultronicSens, a portable electronic device for multiplex diagnostics, recognising the innovation and translational potential of her PhD research.
