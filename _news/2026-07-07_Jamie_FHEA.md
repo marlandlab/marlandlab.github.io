@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Group leader [Jamie Marland](https://marlandlab.github.io/profiles/) has been awarded [Fellowship of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship) (FHEA), recognising his teaching and support for learning in higher education.
+[Jamie Marland](https://marlandlab.github.io/profiles/) has been awarded [Fellowship of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship) (FHEA), recognising his teaching and support for learning in higher education.
