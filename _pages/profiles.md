@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: #
   - align: left
-    image: profile_aarushi.png
+    image: profile_aarushi_2026.jpg
     content: about_aarushi.md
     image_circular: false # crops the image to make it circular
     more_info: #
